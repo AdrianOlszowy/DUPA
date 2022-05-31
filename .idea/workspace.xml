@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a25ae455-be28-4943-8638-e3a6a24c9001" name="Changes" comment="Ćwiczenia z programowania">
-      <change afterPath="$PROJECT_DIR$/src/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/AgeChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/ForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/HomeWork.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Imiona.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/InstrukcjaWarunkowaIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OperatoryLogiczne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/OperatoryPorównania.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desktop/WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +47,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/tiny_herb/Desktop/JAVA"
+    "last_opened_file_path": "C:/Users/tiny_herb/Desktop/JAVA-GIT/WORK"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StudentChecker">
-    <configuration name="AutoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AutoTest" />
+  <component name="RunManager" selected="Application.HomeWork">
+    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork" />
       <module name="Desktop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork" />
         <item itemvalue="Application.StudentChecker" />
         <item itemvalue="Application.ĆwiczenieDzielenie" />
         <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.OdwrócenieTabeli" />
-        <item itemvalue="Application.AutoTest" />
       </list>
     </recent_temporary>
   </component>
