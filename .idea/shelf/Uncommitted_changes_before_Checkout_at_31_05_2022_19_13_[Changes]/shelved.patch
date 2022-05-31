@@ -1,0 +1,27 @@
+Index: src/OdwrócenieTabeli.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class OdwrócenieTabeli {\r\n\r\n    public static void main(String[] args) {\r\n\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/OdwrócenieTabeli.java b/src/OdwrócenieTabeli.java
+--- a/src/OdwrócenieTabeli.java	
++++ b/src/OdwrócenieTabeli.java	
+@@ -1,6 +1,18 @@
+ public class OdwrócenieTabeli {
+ 
+     public static void main(String[] args) {
++        int[] numbers = new int[] {1,3,7,0};
++
++        for (int i=0; i<(numbers.length/2); i++) {
++            int temp = numbers[i];
++            numbers[i] = numbers[numbers.length-1-i];
++            numbers[numbers.length-1-i] = temp;
++
++        }
++
++        for (int i=0; i < numbers.length; i++) {
++            System.out.println(numbers[i]);
++        }
+ 
+     }
+ }
