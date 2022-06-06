@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a25ae455-be28-4943-8638-e3a6a24c9001" name="Changes" comment="Ćwiczenia z programowania">
-      <change afterPath="$PROJECT_DIR$/src/LoopsCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Imiona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Imiona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/tiny_herb/Desktop/JAVA-GIT/WORK&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LoopsCheck">
+  <component name="RunManager" selected="Application.StudentChecker">
     <configuration name="AgeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AgeChecker" />
       <module name="Desktop" />
@@ -66,6 +68,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Imiona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imiona" />
+      <module name="Desktop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoopsCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LoopsCheck" />
       <module name="Desktop" />
@@ -73,15 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OdwrócenieTabeliZadanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OdwrócenieTabeliZadanie" />
-      <module name="Desktop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
+    <configuration name="StudentChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentChecker" />
       <module name="Desktop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoopsCheck" />
-        <item itemvalue="Application.OdwrócenieTabeliZadanie" />
-        <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.HomeWork" />
+        <item itemvalue="Application.StudentChecker" />
         <item itemvalue="Application.AgeChecker" />
+        <item itemvalue="Application.HomeWork" />
+        <item itemvalue="Application.Imiona" />
+        <item itemvalue="Application.LoopsCheck" />
       </list>
     </recent_temporary>
   </component>
