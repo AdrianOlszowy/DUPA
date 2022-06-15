@@ -12,7 +12,7 @@ public class Student {
         System.out.println("Nazywam się" + imie + " " + nazwisko); }
 
     public void zalogujSie() {
-        System.out.println("Loguje sie za pomoca " + nick);
+        System.out.println("Loguje sie za pomoca nicku" + " " + nick);
     }
 
     public void podajNrIndeksu() {
